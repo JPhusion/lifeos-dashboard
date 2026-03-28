@@ -1,5 +1,36 @@
 {
-  "last_updated": "2026-03-28T00:00:00Z",
-  "task_count": 0,
-  "tasks": []
+  "last_updated": "2026-03-28T04:49:41.983Z",
+  "task_count": 3,
+  "tasks": [
+    {
+      "id": 4,
+      "title": "Plan weekly review process",
+      "area": "personal",
+      "priority": "medium",
+      "status": "todo",
+      "due_date": "2026-04-04",
+      "created_at": "2026-03-28 04:39:13",
+      "completed_at": null
+    },
+    {
+      "id": 3,
+      "title": "Configure background sync watcher",
+      "area": "work",
+      "priority": "medium",
+      "status": "done",
+      "due_date": "2026-03-28",
+      "created_at": "2026-03-28 04:39:13",
+      "completed_at": null
+    },
+    {
+      "id": 2,
+      "title": "Set up LifeOS dashboard",
+      "area": "personal",
+      "priority": "high",
+      "status": "done",
+      "due_date": "2026-03-28",
+      "created_at": "2026-03-28 04:39:13",
+      "completed_at": null
+    }
+  ]
 }
